@@ -11,7 +11,7 @@
 2. Clone the repository into a new directory called `surf`:
 
     ```console
-    git clone https://github.com/markussom/surf-zsh-plugin.git surf
+    git clone https://github.com/markussom/surf.plugin.zsh.git surf
     ```
 
 3. Include `surf` plugin to your .zshrc file along with other plugins:
